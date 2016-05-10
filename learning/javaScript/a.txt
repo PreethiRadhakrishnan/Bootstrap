@@ -1,0 +1,38 @@
+//     function comparator(a, b) {
+//   return parseInt(a[obj1[1]], 10) - parseInt(b[obj1[1]], 10);
+// }
+  // var json1a = {obj1};
+  // console.log(json1a["obj1"].sort(comparator));
+  //
+  //     // obj1.sort(sort_by('obj1[1]', true, parseInt));
+
+      // p1a.push(json1a);
+
+// for(var i=0;i<nxt.length-1;i++){
+//
+//   list.push(nxt[i].split(','));
+//
+// }
+//
+// console.log(list);
+// for (i=0;i<list.length;i++)
+// {
+//   for (var j = 0; j < 18; j++) {
+//     if (i==0) {
+//       header.push(list[i][j]);
+//     }
+//   }
+// }
+//
+// console.log(header);
+//
+//
+//
+// for (var i = 1; i < list.length; i++)
+// {
+//
+//     }
+//
+//     }
+//   }
+// }
