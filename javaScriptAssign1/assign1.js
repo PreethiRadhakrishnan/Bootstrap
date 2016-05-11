@@ -34,7 +34,7 @@
 		  }
 
 
-			function mod(obj,a,b,arr,file,str,d)
+			function mod(obj,arr,file,str,d)
 			{
 
 		  for(var i=1;i<nxt.length-3;i++){
@@ -44,8 +44,8 @@
 		      var currentline=nxt[i].split(",");
 		  	  for(var j=0;j<header.length;j++){
 
-		        obj[a] = currentline[0];
-		        obj[b] = parseFloat(currentline[d]);
+		        obj["CountryName"] = currentline[0];
+		        obj["value"] = parseFloat(currentline[d]);
 
 		  	  }
 
@@ -72,11 +72,11 @@
 }
 
 				var obj1 = {};
-				mod(obj1,"CountryName","value",p1a,"json1a.json",str1,5);
+				mod(obj1,p1a,"json1a.json",str1,5);
 				var obj2 = {};
-				mod(obj2,"CountryName","value",p1b,"json1b.json",str2,9);
+				mod(obj2,p1b,"json1b.json",str2,9);
 				var obj3 = {};
-				mod(obj3,"CountryName","value",p1c,"json1c.json",str3,17);
+				mod(obj3,p1c,"json1c.json",str3,17);
 
 
 
