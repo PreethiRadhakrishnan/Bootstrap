@@ -1,0 +1,98 @@
+[
+  {
+    "year": "2016",
+    "Property": 211,
+    "Vehicle": 191,
+    "stateSup": 7
+  },
+  {
+    "year": "2015",
+    "Property": 63,
+    "Vehicle": 58,
+    "stateSup": 1
+  },
+  {
+    "year": "2014",
+    "Property": 175,
+    "Vehicle": 133,
+    "stateSup": 4
+  },
+  {
+    "year": "2013",
+    "Property": 35,
+    "Vehicle": 25,
+    "stateSup": 0
+  },
+  {
+    "year": "2012",
+    "Property": 0,
+    "Vehicle": 1,
+    "stateSup": 0
+  },
+  {
+    "year": "2011",
+    "Property": 1,
+    "Vehicle": 0,
+    "stateSup": 0
+  },
+  {
+    "year": "2010",
+    "Property": 62,
+    "Vehicle": 52,
+    "stateSup": 0
+  },
+  {
+    "year": "2009",
+    "Property": 206,
+    "Vehicle": 216,
+    "stateSup": 0
+  },
+  {
+    "year": "2008",
+    "Property": 230,
+    "Vehicle": 357,
+    "stateSup": 2
+  },
+  {
+    "year": "2007",
+    "Property": 8,
+    "Vehicle": 23,
+    "stateSup": 0
+  },
+  {
+    "year": "2006",
+    "Property": 23,
+    "Vehicle": 19,
+    "stateSup": 1
+  },
+  {
+    "year": "2005",
+    "Property": 86,
+    "Vehicle": 87,
+    "stateSup": 3
+  },
+  {
+    "year": "2004",
+    "Property": 34,
+    "Vehicle": 54,
+    "stateSup": 1
+  },
+  {
+    "year": "2003",
+    "Property": 142,
+    "Vehicle": 150,
+    "stateSup": 3
+  },
+  {
+    "year": "2002",
+    "Property": 481,
+    "Vehicle": 690,
+    "stateSup": 18
+  },
+  {
+    "year": "2001",
+    "Property": 75,
+    "Vehicle": 178,
+    "stateSup": 6
+  }
+]

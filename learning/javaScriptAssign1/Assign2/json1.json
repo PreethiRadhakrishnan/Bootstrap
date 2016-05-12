@@ -1,0 +1,82 @@
+[
+  {
+    "year": "2016",
+    "ROBBERY": 205,
+    "BURGLARY": 306
+  },
+  {
+    "year": "2015",
+    "ROBBERY": 69,
+    "BURGLARY": 83
+  },
+  {
+    "year": "2014",
+    "ROBBERY": 153,
+    "BURGLARY": 258
+  },
+  {
+    "year": "2013",
+    "ROBBERY": 33,
+    "BURGLARY": 68
+  },
+  {
+    "year": "2012",
+    "ROBBERY": 0,
+    "BURGLARY": 4
+  },
+  {
+    "year": "2011",
+    "ROBBERY": 3,
+    "BURGLARY": 2
+  },
+  {
+    "year": "2010",
+    "ROBBERY": 48,
+    "BURGLARY": 85
+  },
+  {
+    "year": "2009",
+    "ROBBERY": 131,
+    "BURGLARY": 269
+  },
+  {
+    "year": "2008",
+    "ROBBERY": 113,
+    "BURGLARY": 206
+  },
+  {
+    "year": "2007",
+    "ROBBERY": 5,
+    "BURGLARY": 20
+  },
+  {
+    "year": "2006",
+    "ROBBERY": 25,
+    "BURGLARY": 20
+  },
+  {
+    "year": "2005",
+    "ROBBERY": 59,
+    "BURGLARY": 89
+  },
+  {
+    "year": "2004",
+    "ROBBERY": 27,
+    "BURGLARY": 43
+  },
+  {
+    "year": "2003",
+    "ROBBERY": 97,
+    "BURGLARY": 144
+  },
+  {
+    "year": "2002",
+    "ROBBERY": 778,
+    "BURGLARY": 398
+  },
+  {
+    "year": "2001",
+    "ROBBERY": 147,
+    "BURGLARY": 67
+  }
+]
